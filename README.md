@@ -47,8 +47,4 @@ An engineering project focused on the CAD modeling, simulation, and performance 
 - ✅ Simulation Report: Support Structure Analysis  
 - ✅ Final Output: 3D CAD Drawing PDFs & Animation Video  
 
----
-
-📎 **Note**: All files are organized for clear version control and ease of collaboration.  
-Ideal for academic evaluation, mechanical design portfolios, and industrial proof-of-concept validation.
 
