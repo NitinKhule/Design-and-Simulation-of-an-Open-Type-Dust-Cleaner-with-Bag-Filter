@@ -1,9 +1,54 @@
-Designed and developed an Open-Type Dust Cleaner with Bag Filter, creating 3D CAD models of components like filters, pipes, and motor enclosures in SolidWorks.
+## 🧹 Open-Type Dust Cleaner with Bag Filter – CAD Design & Simulation
 
-Conducted advanced simulations, including static load analysis and motion studies, to validate structural reliability and optimize system performance.
+An engineering project focused on the CAD modeling, simulation, and performance validation of an industrial dust cleaner system with a bag filter, developed using SolidWorks.
 
-Improved dust collection efficiency through iterative design refinements and analysis of material properties for durability under operational loads.
+---
 
-Collaborated with team members to integrate subsystems into a cohesive design and validated assembly fit and functionality using SolidWorks tools.
+### 🛠️ Key Contributions
 
-Documented the design process and simulation outcomes, gaining hands-on experience in optimization, simulation, and troubleshooting of filtration systems.
+- 🧰 **3D CAD Modeling of Core Components**  
+  ➤ Designed detailed models of:
+  - **Filters, pipes, joints, impellers, and motor enclosures** using SolidWorks  
+  - Developed a full **assembly structure** for real-world adaptability and manufacturability
+
+- 📊 **Simulation & Performance Validation**  
+  ➤ Conducted:
+  - **Static load analysis** to assess structural integrity  
+  - **Motion studies** to optimize component movement and system reliability
+
+- 🔄 **Iterative Design Refinement**  
+  ➤ Improved **dust collection efficiency** by:
+  - Analyzing material stress points and airflow pathways  
+  - Optimizing **geometry and component layout** for durable operation
+
+- 👥 **Collaborative Assembly Development**  
+  ➤ Integrated subsystems into a **cohesive final assembly**  
+  - Validated **mechanical fit, clearances, and connections** within the SolidWorks environment
+
+- 📑 **Documentation & Troubleshooting**  
+  ➤ Documented:
+  - The full **design workflow**, simulation results, and improvement cycles  
+  - Gained hands-on expertise in **CAD optimization, digital simulation, and system-level validation**
+
+---
+
+### 🔧 Tools & Technologies Used
+- SolidWorks (Parts: `.SLDPRT`, Assemblies: `.SLDASM`, Drawings: `.SLDDRW`)  
+- Static Load Simulation & Motion Study Tools  
+- PDF & DWG Layout Documentation  
+- Engineering Design Standards for Dust Filtration Systems  
+
+---
+
+### 📂 Key Project Files Included
+- ✅ 3D Part Files: Filters, Pipes, Impeller, Motor, Enclosure, and Support Structures  
+- ✅ Assembly Files: Centrifugal Pump, Final Assembly  
+- ✅ Process Diagrams: System A to F  
+- ✅ Simulation Report: Support Structure Analysis  
+- ✅ Final Output: 3D CAD Drawing PDFs & Animation Video  
+
+---
+
+📎 **Note**: All files are organized for clear version control and ease of collaboration.  
+Ideal for academic evaluation, mechanical design portfolios, and industrial proof-of-concept validation.
+
